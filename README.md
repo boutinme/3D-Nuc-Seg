@@ -27,6 +27,8 @@ A high-throughput imaging and nuclear segmentation analysis protocol for cleared
 
 Any future projects using this source code or derivative code should cite the above journal article. Full citation information for this journal article will be available at https://www.ncbi.nlm.nih.gov/pubmed
 
+## License Details
+
 The MIT License
 https://opensource.org/licenses/MIT
 
