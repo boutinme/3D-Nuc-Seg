@@ -11,13 +11,13 @@ a170817_Boutin2018_PostStats_v02_ch1only.m
 
 ## Brief description of file function
 
-The **Fnctn\_Boutin2018\_3d\_Sphere\_Seg\_v02.m** Matlab file is the primary image analysis function for identifying and measuring individual nuclei volumes within the larger multi-cellular spheroid volume. The primary image analysis function is run on parallel cpu processing cores by the **a170829\_ParFor\_FunctionCall\_Fnctn\_Boutin2018\_3d\_Sphere\_Seg.m** Matlab file.
+The `Fnctn_Boutin2018_3d_Sphere_Seg_v02.m` Matlab file is the primary image analysis function for identifying and measuring individual nuclei volumes within the larger multi-cellular spheroid volume. The primary image analysis function is run on parallel cpu processing cores by the `a170829_ParFor_FunctionCall_Fnctn_Boutin2018_3d_Sphere_Seg.m` Matlab file.
 
-**a170817\_Boutin2018\_PostStats\_v02\_ch1andch2.m** and **a170817\_Boutin2018\_PostStats\_v02\_ch1only.m** Matlab files are for secondary statistical analysis and load data files that are created by the primary image analysis function.
+`a170817_Boutin2018_PostStats_v02_ch1andch2.m` and `a170817_Boutin2018_PostStats_v02_ch1only.m` Matlab files are for secondary statistical analysis and load data files that are created by the primary image analysis function.
 
-**Well\_Row\_Col\_List\_short\_test.mat** Matlab data file contains list of well coordinates and experimental condition groups for analysis.
+`Well_Row_Col_List_short_test.mat` Matlab data file contains list of well coordinates and experimental condition groups for analysis.
 
-The **fspecial3.m** Matlab file is a previously published function. Full credits are provided within comments of this file.
+The `fspecial3.m` Matlab file is a previously published function. Full credits are provided within comments of this file.
 
 ## Academic credits
 
