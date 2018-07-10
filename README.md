@@ -1,4 +1,4 @@
-# A high-throughput imaging and nuclear segmentation analysis protocol for cleared 3D culture models
+d# A high-throughput imaging and nuclear segmentation analysis protocol for cleared 3D culture models
 
 The following four Matlab script files are provided as open source software under the conditions set forth by 'The MIT License' (details in bottom section of this ReadMe file).
 
@@ -27,7 +27,7 @@ A high-throughput imaging and nuclear segmentation analysis protocol for cleared
 
 Any future projects using this source code or derivative code should cite the above journal article. Full citation information for this journal article will be available at https://www.ncbi.nlm.nih.gov/pubmed
 
-## License Details
+## License details
 
 The MIT License
 https://opensource.org/licenses/MIT
