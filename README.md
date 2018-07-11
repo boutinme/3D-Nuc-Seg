@@ -15,7 +15,7 @@ The `Fnctn_Boutin2018_3d_Sphere_Seg_v02.m` Matlab file is the primary image anal
 
 `a170817_Boutin2018_PostStats_v02_ch1andch2.m` and `a170817_Boutin2018_PostStats_v02_ch1only.m` Matlab files are for secondary statistical analysis and load data files that are created by the primary image analysis function.
 
-`Well_Row_Col_List_short_test.mat` Matlab data file contains list of well coordinates and experimental condition groups for analysis.
+`Well_Row_Col_List_short_test.mat` Matlab data file contains an example list of well coordinates and experimental condition groups for analysis.
 
 The `fspecial3.m` Matlab file is a previously published function. Full credits are provided within comments of this file.
 
@@ -23,7 +23,7 @@ The `fspecial3.m` Matlab file is a previously published function. Full credits a
 
 The proof of concept for the use of these Matlab files in cellular analysis is published in a peer-reviewed journal article, which is cited below.
 
-A high-throughput imaging and nuclear segmentation analysis protocol for cleared 3D culture models. Molly E. Boutin, Ty C. Voss, Steven A. Titus, Kennie Cruz-Gutierrez, Sam Michael, Marc Ferrer. Scientific Reports. 2018. Pre-press at this time: volume/issue/page numbers to be detemined. 
+A high-throughput imaging and nuclear segmentation analysis protocol for cleared 3D culture models. Molly E. Boutin, Ty C. Voss, Steven A. Titus, Kennie Cruz-Gutierrez, Sam Michael, Marc Ferrer. Scientific Reports. 2018. Pre-press at this time (7/2018): volume/issue/page numbers to be determined. 
 
 Any future projects using this source code or derivative code should cite the above journal article. Full citation information for this journal article will be available at https://www.ncbi.nlm.nih.gov/pubmed
 
